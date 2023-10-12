@@ -64,7 +64,7 @@
 
 ## My stats:
 ![](https://github-readme-stats.vercel.app/api?username=duttyfgh&theme=midnight-purple&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duttyfgh&langs_count=8&card_width=450&layout=compact&theme=midnight-purple&show_icons=true)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duttyfgh&langs_count=8&card_width=450&layout=compact&theme=midnight-purple&show_icons=true)
 
 ---
 ## Connect with me:
