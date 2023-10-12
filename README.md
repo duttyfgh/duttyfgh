@@ -1,7 +1,9 @@
 <div align='center'>
     <h1>Welcome 👋
 </div>
-<img src="https://komarev.com/ghpvc/?username=duttyfgh&style=flat-square&color=blue" alt=""/>
+<div align='center'>
+    <img src="https://komarev.com/ghpvc/?username=duttyfgh&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## About me:
 
