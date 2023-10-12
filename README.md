@@ -64,14 +64,14 @@
 
 ## My stats:
 ![](https://github-readme-stats.vercel.app/api?username=duttyfgh&theme=midnight-purple&show_icons=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duttyfgh&langs_count=8&card_width=450&layout=compact&theme=midnight-purple&show_icons=true)]
 
 ---
 ## Connect with me:
+
 <div align='center'>
       <p align="left">
-      <a href="https://linkedin.com/in/dutyfgh" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="dutyfgh" width="30" /></a>
+      <a href="https://www.linkedin.com/in/dmytro-lagodich-756949275/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="dutyfgh" width="30" /></a>
       <a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" alt="dutyfgh" width="30" /></a>
       <a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=lUktdBVdL4Kb&format=png" alt="dutyfgh" width="32" /></a>
       </p>
