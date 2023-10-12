@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Welcome 👋
+    <h1>Welcome 👋<h1/>
     <img src="https://komarev.com/ghpvc/?username=duttyfgh&style=flat-square&color=blue" alt=""/>
 </div>
 
