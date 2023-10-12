@@ -61,3 +61,14 @@
       width="30px"/>
 
 ---
+
+## My stats:
+![](https://github.com/duttyfgh/github-stats/blob/master/generated/languages.svg)
+
+---
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/dutyfgh" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="dutyfgh" width="30" /></a>
+<a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" alt="dutyfgh" width="30" /></a>
+<a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=lUktdBVdL4Kb&format=png" alt="dutyfgh" width="32" /></a>
+</p>
