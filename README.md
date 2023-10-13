@@ -59,7 +59,9 @@
 <img
      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg"
       width="30px"/>
-
+<img
+     src="https://camo.githubusercontent.com/1f525637e02d4177bc31241522284775004a42798a140b9c175b0c6792c2014d/68747470733a2f2f692e696d6775722e636f6d2f697366545935582e706e67"
+      width="30px"/>
 ---
 
 ## My stats:
