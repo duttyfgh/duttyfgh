@@ -45,7 +45,7 @@
      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg"
       width="30px"/>
 <img
-     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg"
+     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg"v
       width="30px"/>
 <img
      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg"
@@ -73,8 +73,8 @@
 
 <div align='center'>
       <p align="left">
-      <a href="https://www.linkedin.com/in/dmytro-lagodich-756949275/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="dutyfgh" width="30" /></a>
-      <a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" alt="dutyfgh" width="30" /></a>
-      <a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=lUktdBVdL4Kb&format=png" alt="dutyfgh" width="32" /></a>
+      <a href="https://www.linkedin.com/in/dmytro-lagodich-756949275/" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/7d490407-77f7-4702-ac53-0d832619f230" alt="dutyfgh" width="30" /></a>
+      <a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="dutyfgh" width="30" /></a>
+      <a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/c3d8d8cd-1775-4a2f-8ca9-c1adbe7df449" alt="dutyfgh" width="32" /></a>
       </p>
 </div>
