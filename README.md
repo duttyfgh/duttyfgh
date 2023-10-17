@@ -16,7 +16,7 @@
 - <div style="display: flex; align-items: center; gap: 10px;">🤖 I can make telegram bots of medium complexity
   </div>
 
-- <div style="display: flex; align-items: center; gap: 10px;">🧑‍🤝‍🧑 I know how to work with github in a team
+- <div style="display: flex; align-items: center; gap: 10px;">🧑‍🤝‍🧑 I can work with github in a team
   </div>
 
 ---
