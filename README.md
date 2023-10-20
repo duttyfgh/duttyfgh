@@ -73,8 +73,8 @@
 
 <div align='center'>
       <p align="left">
-      <a href="https://www.linkedin.com/in/dmytro-lagodich-756949275/" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/7d490407-77f7-4702-ac53-0d832619f230" alt="dutyfgh" width="30" /></a>
-      <a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="dutyfgh" width="30" /></a>
-      <a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/c3d8d8cd-1775-4a2f-8ca9-c1adbe7df449" alt="dutyfgh" width="32" /></a>
+      <a href="https://www.linkedin.com/in/dmytro-lagodich-756949275/" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/7d490407-77f7-4702-ac53-0d832619f230" alt="dutyfgh" width="30" />dmytro-lagodich</a>
+      <a href="https://instagram.com/dutyfgh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="dutyfgh" width="30" />dutyfgh</a>
+      <a href="https://t.me/dutyfgh" target="blank"><img align="center" src="https://github.com/duttyfgh/duttyfgh/assets/123957264/c3d8d8cd-1775-4a2f-8ca9-c1adbe7df449" alt="dutyfgh" width="32" />@dutyfgh</a>
       </p>
 </div>
