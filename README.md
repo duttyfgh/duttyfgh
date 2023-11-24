@@ -7,7 +7,7 @@
 
 ## About me:
 
-- <div style="display: flex; align-items: center; gap: 10px;">👨‍💻 I am a ReactJS developer from Ukraine 🇺🇦
+- <div style="display: flex; align-items: center; gap: 10px;">👨‍💻 I'm a ReactJS developer from Ukraine 🇺🇦
   </div>
 
 - <div style="display: flex; align-items: center; gap: 10px;">💡 I actively learning English every day
