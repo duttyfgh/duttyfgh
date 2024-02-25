@@ -5,6 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=duttyfgh&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
+
+
 ## About me:
 
 - <div style="display: flex; align-items: center; gap: 10px;">👨‍💻 I'm a ReactJS developer from Ukraine 🇺🇦
